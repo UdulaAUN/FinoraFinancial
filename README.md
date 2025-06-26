@@ -13,6 +13,6 @@ Finora is a mobile and web application that makes managing your finances a breez
 Finora showcases my passion for building intuitive, scalable apps with modern tech and user-centric design. 🚀💰 Take control of your finances with Finora today!
 
 📧 Contact
-LinkedIn: https://www.linkedin.com/in/udula-athulathmudali-710251343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/udula-athulathmudali/
 
 Email: udulanethranjanaathulathmudali@gmail.com
